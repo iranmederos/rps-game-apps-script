@@ -3,6 +3,11 @@ Script evaluador de resultados para torneo del juego de piedra papel o tijeras.<
 Se ingresan los datos a la hoja de google sheets y se ejecuta el script para saber los resultados de cada enfrentamiento, la evaluacion de los enfretamientos
 es secuencial (1-2 | 3-4...).<br><br>
 El script esta hecho en JS pero se ejecuta a travez de la extension de Apps Scripts para google sheets.
+##
+Results evaluator script for rock paper scissors tournament.<br><br>
+The data is entered to the google sheets sheet and the script is executed to know the results of each confrontation, the evaluation of the confrontations.
+is sequential (1-2 | 3-4...).<br><br>
+The script is made in JS but it is executed through the Apps Scripts extension for google sheets.
 
 ## Capturas
 ### Datos antes de ejecucion script:
